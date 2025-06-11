@@ -1,0 +1,25 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "email": "juan@example.com",
+      "password": "123456"
+    }
+  ],
+  "suscripciones": [
+    {
+      "id": 1,
+      "nombre": "Netflix",
+      "costo": 45000,
+      "categoria": "Entretenimiento",
+      "fechaRenovacion": "2025-07-01"
+    },
+    {
+      "id": 2,
+      "nombre": "Spotify",
+      "costo": 14900,
+      "categoria": "Música",
+      "fechaRenovacion": "2025-07-15"
+    }
+  ]
+}
