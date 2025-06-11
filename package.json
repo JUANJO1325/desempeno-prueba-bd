@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "API simulada para gestión de suscripciones usando json-server",
   "scripts": {
-    "start": "node ./node_modules/json-server/lib/bin.js --watch db.json --port $PORT --host 0.0.0.0"
+    "start": "node server.js"
   },
   "dependencies": {
     "json-server": "^0.17.3"
